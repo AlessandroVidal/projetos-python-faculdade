@@ -20,6 +20,9 @@ Sistema em Python que simula pedidos em um restaurante, com escolha de prato, ta
 ## 📌 Projeto: Sistema de Vendas de Camisetas
 Sistema em Python que calcula o valor total de um pedido de camisetas com base no modelo, quantidade, descontos progressivos e tipo de frete.
 
+## 📌 Projeto: Sistema de Gerenciamento de Funcionários
+Sistema em Python para cadastro, consulta e remoção de funcionários, utilizando listas, dicionários, funções e menus interativos.
+
 ### ▶️ Como executar
 ```bash
 cd sistema-parcelamento
