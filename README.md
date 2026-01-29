@@ -15,7 +15,10 @@ Sistema que calcula o valor total de um pedido com base na quantidade de parcela
 - Cálculos matemáticos  
 
 ## 📌 Projeto: Sistema de Pedidos de Restaurante
-Sistema em Python que simula pedidos em um restaurante, com escolha de prato, tamanho e cálculo do valor total.
+Sistema em Python que simula pedidos em um restaurante, com escolha de prato, tamanho e cálculo do valor total.]
+
+## 📌 Projeto: Sistema de Vendas de Camisetas
+Sistema em Python que calcula o valor total de um pedido de camisetas com base no modelo, quantidade, descontos progressivos e tipo de frete.
 
 ### ▶️ Como executar
 ```bash
