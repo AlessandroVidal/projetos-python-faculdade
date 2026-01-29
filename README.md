@@ -14,10 +14,13 @@ Sistema que calcula o valor total de um pedido com base na quantidade de parcela
 - Entrada e saída de dados  
 - Cálculos matemáticos  
 
+## 📌 Projeto: Sistema de Pedidos de Restaurante
+Sistema em Python que simula pedidos em um restaurante, com escolha de prato, tamanho e cálculo do valor total.
+
 ### ▶️ Como executar
 ```bash
-python parcelamento.py
 cd sistema-parcelamento
+python parcelamento.py
 ---
 - Organização por linguagem
 - Código limpo
